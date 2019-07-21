@@ -14,6 +14,7 @@
 		0409EF6022E134FC0014642C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0409EF5E22E134FC0014642C /* Main.storyboard */; };
 		0409EF6222E134FD0014642C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0409EF6122E134FD0014642C /* Assets.xcassets */; };
 		0409EF6522E134FD0014642C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0409EF6322E134FD0014642C /* LaunchScreen.storyboard */; };
+		04E411ED22E498B3000CFDF1 /* FireParticles.sks in Resources */ = {isa = PBXBuildFile; fileRef = 04E411EC22E498B3000CFDF1 /* FireParticles.sks */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		0409EF6122E134FD0014642C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0409EF6422E134FD0014642C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0409EF6622E134FD0014642C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04E411EC22E498B3000CFDF1 /* FireParticles.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = FireParticles.sks; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				0409EF6122E134FD0014642C /* Assets.xcassets */,
 				0409EF6322E134FD0014642C /* LaunchScreen.storyboard */,
 				0409EF6622E134FD0014642C /* Info.plist */,
+				04E411EC22E498B3000CFDF1 /* FireParticles.sks */,
 			);
 			path = "Project 11";
 			sourceTree = "<group>";
@@ -130,6 +133,7 @@
 			files = (
 				0409EF6022E134FC0014642C /* Main.storyboard in Resources */,
 				0409EF5722E134FC0014642C /* GameScene.sks in Resources */,
+				04E411ED22E498B3000CFDF1 /* FireParticles.sks in Resources */,
 				0409EF6222E134FD0014642C /* Assets.xcassets in Resources */,
 				0409EF6522E134FD0014642C /* LaunchScreen.storyboard in Resources */,
 			);
@@ -291,7 +295,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 848C2FNJZC;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = "Project 11/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -309,7 +313,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 848C2FNJZC;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = "Project 11/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
